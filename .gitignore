@@ -77,7 +77,6 @@ venv.bak/
 
 # Anaconda files
 *.conda
-*.ipynb
 *.ipynb_checkpoint
 
 # Logs and databases
