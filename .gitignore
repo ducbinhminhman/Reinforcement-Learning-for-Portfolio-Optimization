@@ -1,0 +1,95 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+# Usually contains compiled code
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+.cache
+nosetests.xml
+coverage.xml
+*.coveragerc
+*.pyc
+.pytest_cache/
+junitxml.xml
+*.pyo
+
+# macOS files
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Anaconda files
+*.conda
+*.ipynb
+*.ipynb_checkpoint
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Pycache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore any files with "cache" in the directory name
+**/*cache*/
